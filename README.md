@@ -10,19 +10,18 @@
 <b><i>Let's connect , find me on the Internet <i></b>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/asishkumar-gouda/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-<a href="mailto:gouda0682@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-840010?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="mailto:asishkumar.g@somaiya.edu" target="_blank"><img src="https://img.shields.io/badge/Gmail-840010?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://t.me/Asishkumar_Gouda"><img height="30" src="https://img.shields.io/badge/telegram-0769AD?&style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/_aaasishh_10/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/srijai-ponnaboina/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+<a href="mailto:srijai1908@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-840010?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://t.me/srijai1908"><img height="30" src="https://img.shields.io/badge/telegram-0769AD?&style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/mr_._rock/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
 </p>
 
 ---
 <h3>Github Streak :</h3>
 <p align="center">
-   <a href="https://github.com/ASISHGOUDA/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Asishkumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ASISHGOUDA&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+   <a href="https://github.com/srijai1908/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="srijai's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ASISHGOUDA&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -31,10 +30,10 @@
 <h3>Github Stats 📊</h3>
 
 <p align="center">
-<a href="https://github.com/ASISHGOUDA">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=ASISHGOUDA&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=daf7dc&icon_color=ffffff&bg_color=151515" alt="ASISH GOUDA | Stats"/>
-</a><a href="https://github.com/ASISHGOUDA">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASISHGOUDA&hide=html,css,tsql&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=daf7dc&icon_color=ffffff&bg_color=151515" alt="ASISH GOUDA | Top Languages"/>
+<a href="https://github.com/srijai1908">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=srijai1908&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=daf7dc&icon_color=ffffff&bg_color=151515" alt="Srijai | Stats"/>
+</a><a href="https://github.com/srijai1908">
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijai1908&hide=html,css,tsql&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=daf7dc&icon_color=ffffff&bg_color=151515" alt="Srijai | Top Languages"/>
 </a><br>
 
 
